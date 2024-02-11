@@ -1,0 +1,26 @@
+ {
+  Value: "Kills",
+  DisplayName: "Statistics/Kills",
+  ShortDisplayName: "Statistics/KillsShort"
+ },
+ {
+  Value: "Deaths",
+  DisplayName: "Statistics/Deaths",
+  ShortDisplayName: "Statistics/DeathsShort"
+ },
+ {
+  Value: "Spawns",
+  DisplayName: "Statistics/Spawns",
+  ShortDisplayName: "Statistics/SpawnsShort"
+ },
+ {
+  Value: "Scores",
+  DisplayName: "Statistics/Scores",
+  ShortDisplayName: "Statistics/ScoresShort"
+ }
+];
+LeaderBoard.TeamLeaderBoardValue = {
+ Value: "Deaths",
+ DisplayName: "Statistics\Deaths",
+ ShortDisplayName: "Statistics\Deaths"
+};
